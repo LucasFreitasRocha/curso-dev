@@ -1,0 +1,23 @@
+{
+  "name": "curso-dev",
+  "version": "1.0.0",
+  "description": "conteudo para o curso-dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasFreitasRocha/curso-dev.git"
+  },
+  "author": "Lucas Freitas da Rocha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasFreitasRocha/curso-dev/issues"
+  },
+  "homepage": "https://github.com/LucasFreitasRocha/curso-dev#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0"
+  }
+}
